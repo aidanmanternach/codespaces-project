@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Aidan Manternach",
-  title: "Web Designer & Content Creator",
+  title: "Computer Engineer",
   email: "aidanconnor141@gmail.com",
   gitHub: "aidanmanternach",
   instagram: "",
-  linkedIn: "aidanmanternach",
+  linkedIn: "aidan-manternach",
   medium: "",
   twitter: "",
   youTube: "",
